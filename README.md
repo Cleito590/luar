@@ -1,1 +1,1 @@
-Link: https://cleito590.github.io/luar/
+click: https://cleito590.github.io/luar/
